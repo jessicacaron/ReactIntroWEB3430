@@ -1,6 +1,6 @@
 h1 {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     background-image: url("images/bg1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -14,5 +14,5 @@ nav {
 
 .quote {
     font-size: 2em;
-    padding: 2em;
+    /* padding: 1em; */
 }
